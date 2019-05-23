@@ -1,10 +1,10 @@
 ### Example:
 
- ![image](./test_data/test1.png) ![image](./result/test1.png)
+ ![image](./data/test1.png) ![image](./result/test1.png)
 
-![image](./test_data/test2.jpg) ![image](./result/test2.jpg)
+![image](./data/test2.jpg) ![image](./result/test2.jpg)
 
-![image](./test_data/test3.png) ![image](./result/test3.png)
+![image](./data/test3.png) ![image](./result/test3.png)
 
 ### Dependencies: 
 
